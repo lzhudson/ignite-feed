@@ -4,7 +4,7 @@ Thanks you so much for your interest in contributing to this project!
 
 ## About our deal
 
-Hi! I'm Laura and i'm the creator and maintainer of this project.
+Hi! I'm Hudson and i'm the creator and maintainer of this project.
 
 If you encounter bugs, please **do** open an issue describing the bug and including steps to easily reproduce it (bonus points for a CodeSandbox that demonstrates the problem).
 
@@ -21,6 +21,6 @@ This project follow the [Conventional Commits](https://www.conventionalcommits.o
 If you encounter a problem with this project, please open an issue. Be sure to include:
 
 - Package version
-- Node and React Native versions
+- Node and React JS versions
 - Brief but thorough description of the issue
 - Link to a CodeSandbox (or similar) demonstrating the problem (optional, but highly recommended, especially for complex problems)
