@@ -38,3 +38,37 @@
 ```
 git clone https://github.com/lzhudson/ignite-feed.git
 ```
+
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
+
+```
+git clone git@github.com:lzhudson/ignite-feed.git
+```
+
+
+**Install dependencies**
+
+```
+yarn install
+```
+
+**Start development server**
+
+```
+yarn dev
+```
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [GitHub Explorer](https://github.com/lzhudson/ignite-feed/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lhzhudson/ignite-feed/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+
+# :tada: Contributing
+
+Check out the [contributing](https://github.com/lzhudson/ignite-feed/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+# :closed_book: License
+
+Released in 2023
+This project is under the [MIT license](https://github.com/lzhudson/ignite-feed/main/LICENSE).
+
+Made with love by [Hudson Holanda](https://github.com/lzhudson) 🖤🚀
