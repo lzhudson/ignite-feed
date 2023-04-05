@@ -21,7 +21,6 @@
 
 * [Features](#rocket-features)
 * [Installation](#construction_worker-installation)
-* [Getting Started](#runner-getting-started)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [Contributing](#tada-contributing)
 * [License](#closed_book-license)
@@ -60,7 +59,7 @@ yarn dev
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [GitHub Explorer](https://github.com/lzhudson/ignite-feed/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lhzhudson/ignite-feed/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Ignite Feed](https://github.com/lzhudson/ignite-feed/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/lhzhudson/ignite-feed/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
 # :tada: Contributing
 
