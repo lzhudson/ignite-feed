@@ -71,4 +71,4 @@ Check out the [contributing](https://github.com/lzhudson/ignite-feed/blob/main/C
 Released in 2023
 This project is under the [MIT license](https://github.com/lzhudson/ignite-feed/main/LICENSE).
 
-Made with love by [Hudson Holanda](https://github.com/lzhudson) 🖤🚀
+Designed by [Rockeseat](https://github.com/Rocketseat) and developed by [Hudson Holanda](https://github.com/lzhudson) 🖤🚀
